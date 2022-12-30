@@ -1,0 +1,10 @@
+.contador {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.clicks {
+  border-top: 1px solid white;
+}
